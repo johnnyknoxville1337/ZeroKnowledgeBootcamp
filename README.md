@@ -1,4 +1,4 @@
-# ZeroKnowledgeBootcamp
+# ZeroKnowledgeBootcamp  
 
-Exercises for the Zero Knowledge Bootcamp
-
+Exercises for the Zero Knowledge Bootcamp  
+ 
